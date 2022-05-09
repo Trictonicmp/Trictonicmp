@@ -2,6 +2,15 @@
   
 
 ### *I'm a Full Stack Developer student at Microverse!! 💙*  
+
+```js
+const amaury = {
+  pronouns: ["he", "him"],
+  lookingFor: "Front-end developer" || "Full-stack web developer",
+  code: [HTML, CSS, JavaScript, Jest,],
+  funFacts: ['I solve bugs while sleeping']
+}
+```
   
 
 <br/>  
