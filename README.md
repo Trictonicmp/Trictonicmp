@@ -7,7 +7,7 @@
 const amaury = {
   pronouns: ["he", "him"],
   lookingFor: "Front-end developer" || "Full-stack web developer",
-  code: [HTML, CSS, JavaScript, Jest,],
+  code: [HTML, CSS, JavaScript, C++, Java, PHP],
   funFacts: ['I solve bugs while sleeping']
 }
 ```
