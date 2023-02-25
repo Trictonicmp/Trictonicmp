@@ -1,7 +1,4 @@
-# Hello Everybody! I'm Amaury  
-  
-
-### *I'm a Full Stack Developer student at Microverse!! 💙*  
+# Hello Everybody! I'm Amaury | Full stack developer  
 
 ```js
 const amaury = {
